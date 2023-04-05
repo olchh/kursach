@@ -21,7 +21,7 @@ public class Window_authorization {
     PasswordField password;
     @FXML Label error;
     private static final String LOGIN = "olch";
-    private static final String PASSWORD = "difrend";
+    private static final String PASSWORD = "frend";
 
     private static final String ERROR = "Ошибка! Попробуйте снова!";
 
